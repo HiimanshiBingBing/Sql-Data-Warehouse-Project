@@ -35,7 +35,7 @@ Everything is for Free!
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
 - **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
   
-```
+
 
 ## 🚀 Project Requirements
 
@@ -91,7 +91,6 @@ data-warehouse-project/
 ```
 
 ```
-
 
 ## 🛡️ License
 
